@@ -225,7 +225,7 @@ Si tienes dudas relacionadas con aspectos del lenguaje C++, te recomendamos los 
 
 ## Cómo Subir los Cambios al Repositorio
 
-A medida que comples las actividades sigue estos pasos para registrar tu progreso y subir tu trabajo al repositorio de GitHub Classroom.
+A medida que completes las actividades sigue estos pasos para registrar tu progreso y subir tu trabajo al repositorio de GitHub Classroom.
 
 1. **Abrir la Terminal o Consola Integrada**:
    - En CLion, puedes usar la terminal integrada o abrir una terminal externa en la carpeta del proyecto.
