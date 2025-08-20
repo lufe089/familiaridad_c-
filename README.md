@@ -222,4 +222,32 @@ Si tienes dudas relacionadas con aspectos del lenguaje C++, te recomendamos los 
      [Guía de Introducción a C++](https://github.com/yoanpinzon/POO/blob/master/c%2B%2B1.md)
    - [Guía sobre C++ ciclos y arreglos](https://github.com/yoanpinzon/POO/blob/master/c%2B%2B2.md)
 
-Recuerda que estos recursos están diseñados para complementar tu aprendizaje y ayudarte a resolver dudas específicas sobre el lenguaje.
+
+## Cómo Subir los Cambios al Repositorio
+
+A medida que comples las actividades sigue estos pasos para registrar tu progreso y subir tu trabajo al repositorio de GitHub Classroom.
+
+1. **Abrir la Terminal o Consola Integrada**:
+   - En CLion, puedes usar la terminal integrada o abrir una terminal externa en la carpeta del proyecto.
+
+2. **Registrar Cambios Progresivos (Commits Intermedios)**:
+   - A medida que avances en las actividades, realiza commits intermedios para registrar tu progreso. Por ejemplo:
+     ```bash
+     git add .
+     git commit -m "Implementada función factorial"
+     ```
+   - Realiza un commit cada vez que completes una parte significativa del trabajo, como la implementación de una nueva función o la corrección de un error.
+
+3. **Subir los Cambios (Push)**:
+   - Envía todos los commits al repositorio remoto en GitHub:
+     ```bash
+     git push origin main
+     ```
+4 **Confirmar la Entrega**:
+   - Verifica que los cambios esten reflejados en tu repositorio de GitHub Classroom. Puedes hacerlo visitando el enlace del repositorio en tu navegador.
+
+### Nota
+- Realizar commits intermedios es una buena práctica, ya que permite llevar un registro detallado de tu progreso y facilita la identificación de cambios específicos.
+- Si encuentras problemas al subir los cambios, verifica que estés autenticado correctamente en GitHub y que estés trabajando en el repositorio correcto.
+
+Solo es necesario hacer push al repositorio para que los cambios queden registrados. No es necesario subir ninguna entrega al Brightspace
