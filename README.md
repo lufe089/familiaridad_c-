@@ -204,8 +204,6 @@ Este proyecto está diseñado para ayudarte a desarrollar habilidades prácticas
 
 Si encuentras problemas de **sintaxis** o errores técnicos específicos, puedes usar herramientas de IA para resolverlos. Sin embargo, evita recurrir a estas herramientas para realizar los ejercicios completos, ya que el objetivo principal es que desarrolles tus propias soluciones y fortalezcas tu aprendizaje.
 
-Recuerda: la práctica constante y el esfuerzo personal son clave para convertirte en un programador competente.
-
 ---
 
 ## Recursos Adicionales para Resolver Inquietudes sobre el Lenguaje
